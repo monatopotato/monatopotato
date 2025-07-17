@@ -28,3 +28,57 @@ Java    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
 Python  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 75%
 R       ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░ 45%
 HTML/CSS/JS ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 60%
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monatopotato&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🎯 **Neural Network Framework (Capstone)**  
+  Developed a custom neural network with NumPy/Pandas implementing full backpropagation and gradient descent.
+
+- 🧪 **Caicedo Lab Research**  
+  Object detection models to forecast cell behavior under drug treatment.
+
+- 🎼 **Audio Separation (Stanford Internship)**  
+  Built a TensorFlow model for musical instrument identification using FFT; [Read the paper](https://theinformaticists.com/2023/10/09/unveiling-the-orchestra-a-novel-system-for-audio-separation-and-instrument-identification-in-musical-recordings/)
+
+- 🅿️ **Parking Occupancy Detection**  
+  YOLOv5-based model detecting parking space status; accuracy boosted from 6.5% → 41.3%.
+
+- 🦾 **Robotic Arm with Object Detection**  
+  Raspberry Pi + TensorFlow Lite powered robotic arm trained on 700 custom-labeled images.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monatopotato&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=monatopotato&theme=rogue" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+- Advanced Machine Learning
+- WebGL & Three.js for 3D Simulations
+- Cloud and DevOps (AWS Certified)
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: [maogawa@wisc.edu](mailto:maogawa@wisc.edu)  
+- 💼 LinkedIn: [linkedin.com/in/manato-ogawa](https://linkedin.com/in/manato-ogawa)  
+- 🌐 Website: *Coming Soon!*
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
