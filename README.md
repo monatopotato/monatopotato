@@ -23,13 +23,6 @@
 
 ### 🛠️ Languages & Tools
 
-```txt
-Java    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 85%
-Python  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 75%
-R       ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░ 45%
-HTML/CSS/JS ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 60%
-```
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monatopotato&layout=compact&theme=radical" />
 </p>
