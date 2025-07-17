@@ -21,6 +21,20 @@
 
 ---
 
+### 🧾 Summary
+
+I'm **Manato Ogawa**, a CS & Data Science undergraduate at UW–Madison, passionate about solving real-world problems through AI, machine learning, and intelligent systems.
+
+I’ve conducted research at **Stanford University** on audio separation and currently work at the **Caicedo Lab**, applying object detection to analyze cellular behavior. My hands-on projects include real-time computer vision systems, autonomous robotics, and smart infrastructure AI (YOLOv5-based parking detection).
+
+Professionally, I’ve worked as a **Software Engineering Intern** at OpenQQuantify building a 3D simulation web platform, and as an **AI Trainer** at Outlier AI, improving large language models across five enterprise projects. I also tutor 20+ students in math and CS.
+
+In my extracurricular work on the **Wisconsin Autonomous Perceptions Team**, I develop perception models for real-time decision-making in self-driving systems. I’m certified in **AWS, Spring, SQL, and Quantum Computing**, and proficient in **Java, Python, R, JavaScript, SQL**, and libraries like **PyTorch, TensorFlow, OpenCV**, and **NumPy**.
+
+I’m bilingual (English 🇺🇸 / Japanese 🇯🇵) and driven by the mission to build scalable, ethical, and impactful technologies.
+
+---
+
 ### 🛠️ Languages & Tools
 
 <p align="center">
